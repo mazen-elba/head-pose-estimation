@@ -60,14 +60,9 @@ The marks is detected frame by frame, which result in small variance between adj
 
 To reproduce the facial landmark detection model, you can refer to this [series](https://yinguobing.com/deeplearning/) of posts(in Chinese only). And the training code is also open sourced: https://github.com/yinguobing/cnn-facial-landmark
 
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Authors
-Yin Guobing (尹国冰) - [yinguobing](https://yinguobing.com)
-
-![](doc/wechat_logo.png)
 
 ## Acknowledgments
 The pre-trained TensorFlow model file is trained with various public data sets which have their own licenses. Please refer to them before using this code.
